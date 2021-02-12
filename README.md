@@ -1,2 +1,2 @@
-# WebProyectUsingNextJSAndTailwindCSS
-Web Proyect using Next.JS, Tailwindcss &amp; Vercel
+# Web Proyect Using:
+Next.JS, TailwindCSS, Vercel.
